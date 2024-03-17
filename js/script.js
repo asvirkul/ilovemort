@@ -30,10 +30,19 @@ $(document).ready(function() {
         $('.grid').animate({
             bottom: 0
       }, 1000, "swing")
-       $('.paw-raise').animate({
+       $('.paw-raise img:first-of-type').animate({
         
-        marginBottom: '2000px'
-       }, 1000, "swing")
+        top: '130%'
+       }, 1000, "swing");
+       $('.paw-raise img:last-of-type').animate({
+        
+        top: '130%'
+       }, 1000, "swing");
+       $('.dialog').animate({
+        
+        top: '130%'
+       }, 1000, "swing");
+	      
       });
 
       
