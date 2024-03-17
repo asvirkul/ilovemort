@@ -186,28 +186,28 @@ text-align: center;
 
 }
 .paw-raise img:first-of-type {
-position: absolute;
-left: 50%;
-top: 22%;
-transform: translate(-50%, 0);
-cursor: pointer;
+  position: absolute;
+    left: 50%;
+    top: 64%;
+    transform: translate(-50%, 0);
+    cursor: pointer;
 }
 .paw-raise img:last-of-type {
-  position: absolute;
-  top: 22%;
-left: 60%;
-transform: translate(-50%, 80%);
-cursor: pointer;
+    position: absolute;
+    top: 48%;
+    left: 64%;
+    transform: translate(-50%, 80%);
+    cursor: pointer;
 
 }
 .dialog {
-  position: absolute;
-  right: 30%;
-  font-family: "Pacifico", cursive;
-  color: #fff;
-  font-size: 50px;
-  bottom: 25%;
-  top: 22%;
+      position: absolute;
+    right: 20%;
+    font-family: "Pacifico", cursive;
+    color: #fff;
+    font-size: 50px;
+    bottom: 25%;
+    top: 54%;
 }
 .main-final-text {
   font-size: 70px;
