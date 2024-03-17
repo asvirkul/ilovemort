@@ -28,7 +28,7 @@ $(document).ready(function() {
       $('.paw-raise').click(function ( e ) {
         e.preventDefault();
         $('.grid').animate({
-            bottom: 0
+            bottom: '120px'
       }, 1000, "swing")
        $('.paw-raise img:first-of-type').animate({
         
