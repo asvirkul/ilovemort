@@ -91,14 +91,17 @@
     top: 10%;
 }
 .count-wrapper .img-subtitle-top p {
-  font-family: "Pacifico", cursive;
-  color: #fff;
-  font-size: 40px;
-  display: inline-block;
-  position: absolute;
-  left: 35%;
-    bottom: 37%;
-    transform: translate(-50%, -50%);
+font-family: "Pacifico", cursive;
+    color: #fff;
+    font-size: 40px;
+    display: inline-block;
+    position: absolute;
+    left: 41%;
+    bottom: 30%;
+    transform: translate(-39%, -12%);
+}
+#heart {
+  display: none;
 }
 .count-wrapper .img-subtitle-bottom img {
     bottom: 10%;
@@ -112,9 +115,9 @@
 }
 .main-text-count {
   position: absolute;
-  right: 0;
-  top: 38%;
-  transform: translate(-50%, -50%);
+    right: 0px;
+    top: 38%;
+    transform: translate(-12%, -80%);
 }
 .main-text-count p {
   font-size: 50px;
@@ -131,10 +134,10 @@
   text-align: center;
 }
 .count-wrapper .img-subtitle-center {
-  position: absolute;
-  left: 10%;
-  bottom: 35%;
-  transform: translate(-50%, -50%);
+    position: absolute;
+    left: 12%;
+    bottom: 40%;
+    transform: translate(-50%, -50%);
 }
 #heart {
   opacity: 0.6;
@@ -150,13 +153,12 @@
 }
 .img-subtitle-bottom p {
   position: absolute;
-  transform: rotate(90deg);
-  right: 10%;
-  font-size: 30px;
-  font-family: "Pacifico", cursive;
-  color: #fff;  
-  transform: rotate(-50%, -50%);
-  bottom: 22%;
+    transform: rotate(90deg);
+    right: 7%;
+    font-size: 30px;
+    font-family: "Pacifico", cursive;
+    color: #fff;
+    bottom: 27%;
 }
 audio {
   display: none;
@@ -186,9 +188,9 @@ text-align: center;
 
 }
 .paw-raise img:first-of-type {
-  position: absolute;
+    position: absolute;
     left: 50%;
-    top: 64%;
+    top: 59%;
     transform: translate(-50%, 0);
     cursor: pointer;
 }
