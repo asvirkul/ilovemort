@@ -240,3 +240,6 @@ cursor: pointer;
   border-radius: 20px;
   display: inline-block;
 }
+.pp-section.pp-table {
+  display: unset !important;
+}
